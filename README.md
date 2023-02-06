@@ -1,3 +1,3 @@
-# React for Beginners
+# movie app with react.js
 
-Learning React From Zero to Ninja
+배포본을 [https://inspiring-zuccutto-26f8e3.netlify.app](https://inspiring-zuccutto-26f8e3.netlify.app)에서 확인하실 수 있습니다.
